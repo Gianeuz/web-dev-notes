@@ -4,3 +4,6 @@
 
 ### Add prometheus metrics exporter middleware
 - Technical notes, architecture insights, and code guidelines for add Prometheus metrics exporter middleware.
+
+### Document background worker queue integration
+- Technical notes, architecture insights, and code guidelines for document background worker queue integration.
