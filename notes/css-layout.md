@@ -13,3 +13,6 @@
 
 ### Document css nesting native syntax and rules
 - Technical notes, architecture insights, and code guidelines for document CSS nesting native syntax and rules.
+
+### Add view-transition-name page transitions
+- Technical notes, architecture insights, and code guidelines for add view-transition-name page transitions.
