@@ -10,3 +10,6 @@
 
 ### Add conditional types infer keyword pattern
 - Technical notes, architecture insights, and code guidelines for add conditional types infer keyword pattern.
+
+### Document module augmentation for global window objects
+- Technical notes, architecture insights, and code guidelines for document module augmentation for global window objects.
