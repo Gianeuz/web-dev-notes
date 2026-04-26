@@ -13,3 +13,6 @@
 
 ### Add transaction isolation levels read committed vs serializable
 - Technical notes, architecture insights, and code guidelines for add transaction isolation levels READ COMMITTED vs SERIALIZABLE.
+
+### Document partial indexes with where clauses
+- Technical notes, architecture insights, and code guidelines for document partial indexes with WHERE clauses.
