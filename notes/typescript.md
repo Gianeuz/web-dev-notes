@@ -19,3 +19,6 @@
 
 ### Document enum vs const object as const tradeoffs
 - Technical notes, architecture insights, and code guidelines for document enum vs const object as const tradeoffs.
+
+### Add declaration merging for express request namespace
+- Technical notes, architecture insights, and code guidelines for add declaration merging for Express Request namespace.
