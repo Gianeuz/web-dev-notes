@@ -22,3 +22,6 @@
 
 ### Add declaration merging for express request namespace
 - Technical notes, architecture insights, and code guidelines for add declaration merging for Express Request namespace.
+
+### Document function overloading signature conventions
+- Technical notes, architecture insights, and code guidelines for document function overloading signature conventions.
