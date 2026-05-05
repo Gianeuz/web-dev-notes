@@ -28,3 +28,6 @@
 
 ### Add cron job syntax and automated schedule scripts
 - Technical notes, architecture insights, and code guidelines for add cron job syntax and automated schedule scripts.
+
+### Document chmod permissions octal notation and umask
+- Technical notes, architecture insights, and code guidelines for document chmod permissions octal notation and umask.
