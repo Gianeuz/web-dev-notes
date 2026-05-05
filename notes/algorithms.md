@@ -25,3 +25,6 @@
 
 ### Add merge sort recursion with auxiliary array optimization
 - Technical notes, architecture insights, and code guidelines for add merge sort recursion with auxiliary array optimization.
+
+### Document monotonic stack for next greater element
+- Technical notes, architecture insights, and code guidelines for document monotonic stack for next greater element.
