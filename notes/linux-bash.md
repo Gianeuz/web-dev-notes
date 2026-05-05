@@ -22,3 +22,6 @@
 
 ### Add lsof and netstat port conflict diagnosis
 - Technical notes, architecture insights, and code guidelines for add lsof and netstat port conflict diagnosis.
+
+### Document essential bash commands: grep, awk, sed
+- Technical notes, architecture insights, and code guidelines for document essential bash commands: grep, awk, sed.
