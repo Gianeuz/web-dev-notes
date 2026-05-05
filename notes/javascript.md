@@ -28,3 +28,6 @@
 
 ### Add array.prototype.flatmap practical example
 - Technical notes, architecture insights, and code guidelines for add Array.prototype.flatMap practical example.
+
+### Document structuredclone cyclical reference support
+- Technical notes, architecture insights, and code guidelines for document structuredClone cyclical reference support.
