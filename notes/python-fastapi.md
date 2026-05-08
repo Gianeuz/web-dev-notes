@@ -37,3 +37,6 @@
 
 ### Document cors origins wildcards vs credentials security
 - Technical notes, architecture insights, and code guidelines for document CORS origins wildcards vs credentials security.
+
+### Add pytest fixture scope and autouse guidelines
+- Technical notes, architecture insights, and code guidelines for add pytest fixture scope and autouse guidelines.
