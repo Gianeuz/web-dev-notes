@@ -37,3 +37,6 @@
 
 ### Document satisfies operator type checking without widening
 - Technical notes, architecture insights, and code guidelines for document satisfies operator type checking without widening.
+
+### Add tsconfig strict mode configuration flags
+- Technical notes, architecture insights, and code guidelines for add tsconfig strict mode configuration flags.
