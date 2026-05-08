@@ -40,3 +40,6 @@
 
 ### Document server components vs client components boundary
 - Technical notes, architecture insights, and code guidelines for document server components vs client components boundary.
+
+### Add error boundary fallback ui implementation
+- Technical notes, architecture insights, and code guidelines for add error boundary fallback UI implementation.
