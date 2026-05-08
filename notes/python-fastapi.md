@@ -31,3 +31,6 @@
 
 ### Document oauth2 password bearer token expiry handling
 - Technical notes, architecture insights, and code guidelines for document OAuth2 password bearer token expiry handling.
+
+### Add sqlalchemy 2.0 select() statement syntax
+- Technical notes, architecture insights, and code guidelines for add SQLAlchemy 2.0 select() statement syntax.
