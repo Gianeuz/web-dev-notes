@@ -55,3 +55,6 @@
 
 ### Add sql window functions dense_rank partition rules
 - Technical notes, architecture insights, and code guidelines for add SQL window functions DENSE_RANK partition rules.
+
+### Document table partitioning by date range
+- Technical notes, architecture insights, and code guidelines for document table partitioning by date range.
