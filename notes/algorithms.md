@@ -58,3 +58,6 @@
 
 ### Document binary search tree insertion and balancing
 - Technical notes, architecture insights, and code guidelines for document binary search tree insertion and balancing.
+
+### Add union-find disjoint set with rank and path compression
+- Technical notes, architecture insights, and code guidelines for add union-find disjoint set with rank and path compression.
