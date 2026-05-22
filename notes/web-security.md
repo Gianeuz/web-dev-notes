@@ -64,3 +64,6 @@
 
 ### Add subresource integrity sha-384 script validation
 - Technical notes, architecture insights, and code guidelines for add Subresource Integrity SHA-384 script validation.
+
+### Document oauth2 state csrf parameter verification
+- Technical notes, architecture insights, and code guidelines for document OAuth2 state CSRF parameter verification.
