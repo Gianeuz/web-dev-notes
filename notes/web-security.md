@@ -67,3 +67,6 @@
 
 ### Document oauth2 state csrf parameter verification
 - Technical notes, architecture insights, and code guidelines for document OAuth2 state CSRF parameter verification.
+
+### Add cross-origin resource policy (corp) headers guide
+- Technical notes, architecture insights, and code guidelines for add Cross-Origin Resource Policy (CORP) headers guide.
