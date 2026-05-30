@@ -73,3 +73,6 @@
 
 ### Document function overloading signature conventions
 - Technical notes, architecture insights, and code guidelines for document function overloading signature conventions.
+
+### Add brand types for nominal type safety in ids
+- Technical notes, architecture insights, and code guidelines for add brand types for nominal type safety in IDs.
