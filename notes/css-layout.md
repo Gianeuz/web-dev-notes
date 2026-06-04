@@ -76,3 +76,6 @@
 
 ### Add container queries @container inline size guide
 - Technical notes, architecture insights, and code guidelines for add container queries @container inline size guide.
+
+### Document scrollbar-gutter layout shift prevention
+- Technical notes, architecture insights, and code guidelines for document scrollbar-gutter layout shift prevention.
