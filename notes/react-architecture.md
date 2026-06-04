@@ -85,3 +85,6 @@
 
 ### Add compound component pattern with context api
 - Technical notes, architecture insights, and code guidelines for add compound component pattern with Context API.
+
+### Document server components vs client components boundary
+- Technical notes, architecture insights, and code guidelines for document server components vs client components boundary.
