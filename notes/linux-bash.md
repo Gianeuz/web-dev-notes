@@ -94,3 +94,6 @@
 
 ### Add top and htop memory and cpu profiling basics
 - Technical notes, architecture insights, and code guidelines for add top and htop memory and CPU profiling basics.
+
+### Document environment variable exports in .bashrc and .zshrc
+- Technical notes, architecture insights, and code guidelines for document environment variable exports in .bashrc and .zshrc.
