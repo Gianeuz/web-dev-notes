@@ -94,3 +94,6 @@
 
 ### Add navigator.clipboard asynchronous read/write pattern
 - Technical notes, architecture insights, and code guidelines for add navigator.clipboard asynchronous read/write pattern.
+
+### Document map vs plain object memory efficiency
+- Technical notes, architecture insights, and code guidelines for document Map vs plain Object memory efficiency.
