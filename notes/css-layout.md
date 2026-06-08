@@ -91,3 +91,6 @@
 
 ### Document font-palette and color fonts support
 - Technical notes, architecture insights, and code guidelines for document font-palette and color fonts support.
+
+### Add text-wrap: balance headline optimization
+- Technical notes, architecture insights, and code guidelines for add text-wrap: balance headline optimization.
