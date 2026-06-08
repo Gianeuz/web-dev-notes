@@ -94,3 +94,6 @@
 
 ### Add tuple types with rest elements and labels
 - Technical notes, architecture insights, and code guidelines for add tuple types with rest elements and labels.
+
+### Document type narrowing with discriminated unions
+- Technical notes, architecture insights, and code guidelines for document type narrowing with discriminated unions.
