@@ -106,3 +106,6 @@
 
 ### Document table partitioning by date range
 - Technical notes, architecture insights, and code guidelines for document table partitioning by date range.
+
+### Add transaction isolation levels read committed vs serializable
+- Technical notes, architecture insights, and code guidelines for add transaction isolation levels READ COMMITTED vs SERIALIZABLE.
