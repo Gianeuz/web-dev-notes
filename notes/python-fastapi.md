@@ -112,3 +112,6 @@
 
 ### Add rate limiting with slowapi memory storage
 - Technical notes, architecture insights, and code guidelines for add rate limiting with slowapi memory storage.
+
+### Document httpx asyncclient test client setup
+- Technical notes, architecture insights, and code guidelines for document httpx AsyncClient test client setup.
