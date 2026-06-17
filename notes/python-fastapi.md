@@ -118,3 +118,6 @@
 
 ### Add fastapi apirouter prefix and tags configuration
 - Technical notes, architecture insights, and code guidelines for add FastAPI APIRouter prefix and tags configuration.
+
+### Document uvicorn gunicorn production process management
+- Technical notes, architecture insights, and code guidelines for document uvicorn gunicorn production process management.
