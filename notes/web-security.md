@@ -127,3 +127,6 @@
 
 ### Document input sanitization vs output contextual encoding
 - Technical notes, architecture insights, and code guidelines for document input sanitization vs output contextual encoding.
+
+### Add x-frame-options deny clickjacking protection
+- Technical notes, architecture insights, and code guidelines for add X-Frame-Options DENY clickjacking protection.
