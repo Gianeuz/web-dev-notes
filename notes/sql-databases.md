@@ -124,3 +124,6 @@
 
 ### Document foreign key on update cascade actions
 - Technical notes, architecture insights, and code guidelines for document foreign key ON UPDATE CASCADE actions.
+
+### Add database backup and point-in-time recovery strategy
+- Technical notes, architecture insights, and code guidelines for add database backup and point-in-time recovery strategy.
