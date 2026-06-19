@@ -127,3 +127,6 @@
 
 ### Add database backup and point-in-time recovery strategy
 - Technical notes, architecture insights, and code guidelines for add database backup and point-in-time recovery strategy.
+
+### Document recursive cte hierarchical queries
+- Technical notes, architecture insights, and code guidelines for document recursive CTE hierarchical queries.
