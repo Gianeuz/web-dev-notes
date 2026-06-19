@@ -130,3 +130,6 @@
 
 ### Add backdrop-filter glassmorphism design tokens
 - Technical notes, architecture insights, and code guidelines for add backdrop-filter glassmorphism design tokens.
+
+### Document @starting-style entry animations
+- Technical notes, architecture insights, and code guidelines for document @starting-style entry animations.
