@@ -124,3 +124,6 @@
 
 ### Add brand types for nominal type safety in ids
 - Technical notes, architecture insights, and code guidelines for add brand types for nominal type safety in IDs.
+
+### Document template literal string types utility
+- Technical notes, architecture insights, and code guidelines for document template literal string types utility.
