@@ -121,3 +121,6 @@
 
 ### Add virtualized infinite scroll component architecture
 - Technical notes, architecture insights, and code guidelines for add virtualized infinite scroll component architecture.
+
+### Document usetransition for non-blocking state updates
+- Technical notes, architecture insights, and code guidelines for document useTransition for non-blocking state updates.
