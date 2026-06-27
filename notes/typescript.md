@@ -139,3 +139,6 @@
 
 ### Document const type parameters in typescript 5
 - Technical notes, architecture insights, and code guidelines for document const type parameters in TypeScript 5.
+
+### Add tuple types with rest elements and labels
+- Technical notes, architecture insights, and code guidelines for add tuple types with rest elements and labels.
