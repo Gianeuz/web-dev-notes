@@ -154,3 +154,6 @@
 
 ### Document react.memo with custom arepropsequal comparator
 - Technical notes, architecture insights, and code guidelines for document React.memo with custom arePropsEqual comparator.
+
+### Add portal modal pattern with keyboard trap
+- Technical notes, architecture insights, and code guidelines for add portal modal pattern with keyboard trap.
