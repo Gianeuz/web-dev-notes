@@ -148,3 +148,6 @@
 
 ### Document query plan cost estimation breakdown
 - Technical notes, architecture insights, and code guidelines for document query plan cost estimation breakdown.
+
+### Add sql window functions dense_rank partition rules
+- Technical notes, architecture insights, and code guidelines for add SQL window functions DENSE_RANK partition rules.
