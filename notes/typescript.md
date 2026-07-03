@@ -151,3 +151,6 @@
 
 ### Document utility types: pick, omit, record, returntype
 - Technical notes, architecture insights, and code guidelines for document utility types: Pick, Omit, Record, ReturnType.
+
+### Add conditional types infer keyword pattern
+- Technical notes, architecture insights, and code guidelines for add conditional types infer keyword pattern.
