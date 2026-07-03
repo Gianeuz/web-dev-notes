@@ -154,3 +154,6 @@
 
 ### Add structured json logging with structlog
 - Technical notes, architecture insights, and code guidelines for add structured JSON logging with structlog.
+
+### Document alembic revision --autogenerate best practices
+- Technical notes, architecture insights, and code guidelines for document alembic revision --autogenerate best practices.
