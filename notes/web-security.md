@@ -154,3 +154,6 @@
 
 ### Add audit logging for administrative authentication events
 - Technical notes, architecture insights, and code guidelines for add audit logging for administrative authentication events.
+
+### Document sql injection parameterized query best practices
+- Technical notes, architecture insights, and code guidelines for document SQL injection parameterized query best practices.
