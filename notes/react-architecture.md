@@ -151,3 +151,6 @@
 
 ### Add render props vs custom hooks composition tradeoffs
 - Technical notes, architecture insights, and code guidelines for add render props vs custom hooks composition tradeoffs.
+
+### Document react.memo with custom arepropsequal comparator
+- Technical notes, architecture insights, and code guidelines for document React.memo with custom arePropsEqual comparator.
