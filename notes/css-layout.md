@@ -154,3 +154,6 @@
 
 ### Add color-mix() function color palettes
 - Technical notes, architecture insights, and code guidelines for add color-mix() function color palettes.
+
+### Document css nesting native syntax and rules
+- Technical notes, architecture insights, and code guidelines for document CSS nesting native syntax and rules.
