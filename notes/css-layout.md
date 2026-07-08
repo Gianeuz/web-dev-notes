@@ -163,3 +163,6 @@
 
 ### Document mix-blend-mode visual effects
 - Technical notes, architecture insights, and code guidelines for document mix-blend-mode visual effects.
+
+### Add modern aspect-ratio calculations
+- Technical notes, architecture insights, and code guidelines for add modern aspect-ratio calculations.
