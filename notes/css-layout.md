@@ -169,3 +169,6 @@
 
 ### Document prefers-reduced-motion media query
 - Technical notes, architecture insights, and code guidelines for document prefers-reduced-motion media query.
+
+### Add container queries @container inline size guide
+- Technical notes, architecture insights, and code guidelines for add container queries @container inline size guide.
