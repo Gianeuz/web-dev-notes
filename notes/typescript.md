@@ -160,3 +160,6 @@
 
 ### Add mapped types key remapping via as clause
 - Technical notes, architecture insights, and code guidelines for add mapped types key remapping via as clause.
+
+### Document enum vs const object as const tradeoffs
+- Technical notes, architecture insights, and code guidelines for document enum vs const object as const tradeoffs.
