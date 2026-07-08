@@ -157,3 +157,6 @@
 
 ### Document piping and i/o redirection: stdout, stderr
 - Technical notes, architecture insights, and code guidelines for document piping and I/O redirection: stdout, stderr.
+
+### Add rsync remote file transfer with progress flags
+- Technical notes, architecture insights, and code guidelines for add rsync remote file transfer with progress flags.
