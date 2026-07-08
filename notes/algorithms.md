@@ -160,3 +160,6 @@
 
 ### Document lru cache implementation using ordereddict
 - Technical notes, architecture insights, and code guidelines for document LRU cache implementation using OrderedDict.
+
+### Add a* search algorithm heuristic design
+- Technical notes, architecture insights, and code guidelines for add A* search algorithm heuristic design.
