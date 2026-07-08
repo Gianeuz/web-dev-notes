@@ -163,3 +163,6 @@
 
 ### Document httpx asyncclient test client setup
 - Technical notes, architecture insights, and code guidelines for document httpx AsyncClient test client setup.
+
+### Add fastapi apirouter prefix and tags configuration
+- Technical notes, architecture insights, and code guidelines for add FastAPI APIRouter prefix and tags configuration.
