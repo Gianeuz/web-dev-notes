@@ -160,3 +160,6 @@
 
 ### Document partial indexes with where clauses
 - Technical notes, architecture insights, and code guidelines for document partial indexes with WHERE clauses.
+
+### Add uuid vs bigint auto-increment primary key tradeoffs
+- Technical notes, architecture insights, and code guidelines for add UUID vs BIGINT auto-increment primary key tradeoffs.
