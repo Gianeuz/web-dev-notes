@@ -169,3 +169,6 @@
 
 ### Document secure http headers checklist: hsts, referrer-policy
 - Technical notes, architecture insights, and code guidelines for document secure HTTP headers checklist: HSTS, Referrer-Policy.
+
+### Add jwt audience and issuer verification hardening
+- Technical notes, architecture insights, and code guidelines for add JWT audience and issuer verification hardening.
