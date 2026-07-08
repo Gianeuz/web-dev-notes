@@ -163,3 +163,6 @@
 
 ### Document tmux session management and keybindings
 - Technical notes, architecture insights, and code guidelines for document tmux session management and keybindings.
+
+### Add lsof and netstat port conflict diagnosis
+- Technical notes, architecture insights, and code guidelines for add lsof and netstat port conflict diagnosis.
