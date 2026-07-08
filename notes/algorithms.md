@@ -166,3 +166,6 @@
 
 ### Document topological sorting with kahn's algorithm
 - Technical notes, architecture insights, and code guidelines for document topological sorting with Kahn's algorithm.
+
+### Add merge sort recursion with auxiliary array optimization
+- Technical notes, architecture insights, and code guidelines for add merge sort recursion with auxiliary array optimization.
