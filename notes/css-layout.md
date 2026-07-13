@@ -184,3 +184,6 @@
 
 ### Add :focus-visible accessibility outline standards
 - Technical notes, architecture insights, and code guidelines for add :focus-visible accessibility outline standards.
+
+### Document font-palette and color fonts support
+- Technical notes, architecture insights, and code guidelines for document font-palette and color fonts support.
