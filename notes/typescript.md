@@ -175,3 +175,6 @@
 
 ### Document template literal string types utility
 - Technical notes, architecture insights, and code guidelines for document template literal string types utility.
+
+### Add deep readonly recursive type implementation
+- Technical notes, architecture insights, and code guidelines for add deep Readonly recursive type implementation.
