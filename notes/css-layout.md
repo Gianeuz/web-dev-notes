@@ -181,3 +181,6 @@
 
 ### Document @starting-style entry animations
 - Technical notes, architecture insights, and code guidelines for document @starting-style entry animations.
+
+### Add :focus-visible accessibility outline standards
+- Technical notes, architecture insights, and code guidelines for add :focus-visible accessibility outline standards.
