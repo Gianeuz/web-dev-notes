@@ -187,3 +187,6 @@
 
 ### Document tar archive compression and extraction commands
 - Technical notes, architecture insights, and code guidelines for document tar archive compression and extraction commands.
+
+### Add top and htop memory and cpu profiling basics
+- Technical notes, architecture insights, and code guidelines for add top and htop memory and CPU profiling basics.
