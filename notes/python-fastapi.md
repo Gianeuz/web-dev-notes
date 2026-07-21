@@ -205,3 +205,6 @@
 
 ### Document alembic revision --autogenerate best practices
 - Technical notes, architecture insights, and code guidelines for document alembic revision --autogenerate best practices.
+
+### Add rate limiting with slowapi memory storage
+- Technical notes, architecture insights, and code guidelines for add rate limiting with slowapi memory storage.
