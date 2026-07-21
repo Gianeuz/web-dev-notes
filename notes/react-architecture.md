@@ -205,3 +205,6 @@
 
 ### Add portal modal pattern with keyboard trap
 - Technical notes, architecture insights, and code guidelines for add portal modal pattern with keyboard trap.
+
+### Document suspense and streaming ssr architecture
+- Technical notes, architecture insights, and code guidelines for document Suspense and streaming SSR architecture.
