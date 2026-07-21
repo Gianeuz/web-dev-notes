@@ -208,3 +208,6 @@
 
 ### Add clean generator function yield idioms
 - Technical notes, architecture insights, and code guidelines for add clean generator function yield idioms.
+
+### Document intl.numberformat currency formatting in php/usd
+- Technical notes, architecture insights, and code guidelines for document Intl.NumberFormat currency formatting in PHP/USD.
