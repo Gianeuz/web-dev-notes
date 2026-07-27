@@ -217,3 +217,6 @@
 
 ### Add full text search fts5 virtual tables in sqlite
 - Technical notes, architecture insights, and code guidelines for add full text search FTS5 virtual tables in SQLite.
+
+### Document foreign key on update cascade actions
+- Technical notes, architecture insights, and code guidelines for document foreign key ON UPDATE CASCADE actions.
