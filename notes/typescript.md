@@ -232,3 +232,6 @@
 
 ### Add tsconfig strict mode configuration flags
 - Technical notes, architecture insights, and code guidelines for add tsconfig strict mode configuration flags.
+
+### Document const type parameters in typescript 5
+- Technical notes, architecture insights, and code guidelines for document const type parameters in TypeScript 5.
