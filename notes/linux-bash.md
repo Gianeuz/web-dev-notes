@@ -232,3 +232,6 @@
 
 ### Add find command search by modification date and size
 - Technical notes, architecture insights, and code guidelines for add find command search by modification date and size.
+
+### Document tar archive compression and extraction commands
+- Technical notes, architecture insights, and code guidelines for document tar archive compression and extraction commands.
