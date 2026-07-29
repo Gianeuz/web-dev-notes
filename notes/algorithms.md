@@ -223,3 +223,6 @@
 
 ### Add matrix exponentiation for fibonacci calculation
 - Technical notes, architecture insights, and code guidelines for add matrix exponentiation for Fibonacci calculation.
+
+### Document quickselect average o(n) k-th element search
+- Technical notes, architecture insights, and code guidelines for document quickselect average O(n) k-th element search.
