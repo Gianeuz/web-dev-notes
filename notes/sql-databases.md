@@ -229,3 +229,6 @@
 
 ### Add database connection timeout and keepalive settings
 - Technical notes, architecture insights, and code guidelines for add database connection timeout and keepalive settings.
+
+### Document deadlocks detection and retry mechanisms
+- Technical notes, architecture insights, and code guidelines for document deadlocks detection and retry mechanisms.
