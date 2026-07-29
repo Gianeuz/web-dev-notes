@@ -232,3 +232,6 @@
 
 ### Add redos regex denial-of-service audit patterns
 - Technical notes, architecture insights, and code guidelines for add ReDoS regex denial-of-service audit patterns.
+
+### Document samesite=lax vs strict cookie directives
+- Technical notes, architecture insights, and code guidelines for document SameSite=Lax vs Strict cookie directives.
