@@ -232,3 +232,6 @@
 
 ### Add pytest fixture scope and autouse guidelines
 - Technical notes, architecture insights, and code guidelines for add pytest fixture scope and autouse guidelines.
+
+### Document pydantic v2 field_validator patterns
+- Technical notes, architecture insights, and code guidelines for document Pydantic v2 field_validator patterns.
