@@ -226,3 +226,6 @@
 
 ### Add abortsignal.timeout native timeout pattern
 - Technical notes, architecture insights, and code guidelines for add AbortSignal.timeout native timeout pattern.
+
+### Document promise.race and promise.any distinctions
+- Technical notes, architecture insights, and code guidelines for document Promise.race and Promise.any distinctions.
