@@ -232,3 +232,6 @@
 
 ### Document deadlocks detection and retry mechanisms
 - Technical notes, architecture insights, and code guidelines for document deadlocks detection and retry mechanisms.
+
+### Add covering index include clause benefits
+- Technical notes, architecture insights, and code guidelines for add covering index INCLUDE clause benefits.
