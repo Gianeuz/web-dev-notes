@@ -238,3 +238,6 @@
 
 ### Add redis caching client wrapper in fastapi
 - Technical notes, architecture insights, and code guidelines for add Redis caching client wrapper in FastAPI.
+
+### Document custom middleware dispatch processing
+- Technical notes, architecture insights, and code guidelines for document custom middleware dispatch processing.
