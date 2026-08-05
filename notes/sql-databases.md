@@ -235,3 +235,6 @@
 
 ### Add covering index include clause benefits
 - Technical notes, architecture insights, and code guidelines for add covering index INCLUDE clause benefits.
+
+### Document database connection pooling size tuning
+- Technical notes, architecture insights, and code guidelines for document database connection pooling size tuning.
