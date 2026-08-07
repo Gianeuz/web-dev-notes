@@ -250,3 +250,6 @@
 
 ### Add modern es2024 object.groupby utility guide
 - Technical notes, architecture insights, and code guidelines for add modern ES2024 Object.groupBy utility guide.
+
+### Document promise.allsettled error resilience
+- Technical notes, architecture insights, and code guidelines for document Promise.allSettled error resilience.
