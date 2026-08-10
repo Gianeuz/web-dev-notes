@@ -259,3 +259,6 @@
 
 ### Add uuid vs bigint auto-increment primary key tradeoffs
 - Technical notes, architecture insights, and code guidelines for add UUID vs BIGINT auto-increment primary key tradeoffs.
+
+### Document vacuum and analyze database maintenance
+- Technical notes, architecture insights, and code guidelines for document VACUUM and ANALYZE database maintenance.
