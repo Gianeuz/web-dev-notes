@@ -256,3 +256,6 @@
 
 ### Add rsync remote file transfer with progress flags
 - Technical notes, architecture insights, and code guidelines for add rsync remote file transfer with progress flags.
+
+### Document tmux session management and keybindings
+- Technical notes, architecture insights, and code guidelines for document tmux session management and keybindings.
