@@ -265,3 +265,6 @@
 
 ### Document uvicorn gunicorn production process management
 - Technical notes, architecture insights, and code guidelines for document uvicorn gunicorn production process management.
+
+### Add starlette streamingresponse file download guide
+- Technical notes, architecture insights, and code guidelines for add Starlette StreamingResponse file download guide.
