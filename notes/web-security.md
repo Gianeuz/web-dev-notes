@@ -262,3 +262,6 @@
 
 ### Add cross-origin resource policy (corp) headers guide
 - Technical notes, architecture insights, and code guidelines for add Cross-Origin Resource Policy (CORP) headers guide.
+
+### Document secure http headers checklist: hsts, referrer-policy
+- Technical notes, architecture insights, and code guidelines for document secure HTTP headers checklist: HSTS, Referrer-Policy.
