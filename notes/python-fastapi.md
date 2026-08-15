@@ -268,3 +268,6 @@
 
 ### Add starlette streamingresponse file download guide
 - Technical notes, architecture insights, and code guidelines for add Starlette StreamingResponse file download guide.
+
+### Document oauth2 password bearer token expiry handling
+- Technical notes, architecture insights, and code guidelines for document OAuth2 password bearer token expiry handling.
