@@ -262,3 +262,6 @@
 
 ### Add modern aspect-ratio calculations
 - Technical notes, architecture insights, and code guidelines for add modern aspect-ratio calculations.
+
+### Document prefers-reduced-motion media query
+- Technical notes, architecture insights, and code guidelines for document prefers-reduced-motion media query.
