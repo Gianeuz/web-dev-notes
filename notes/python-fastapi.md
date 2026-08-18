@@ -274,3 +274,6 @@
 
 ### Add sqlalchemy 2.0 select() statement syntax
 - Technical notes, architecture insights, and code guidelines for add SQLAlchemy 2.0 select() statement syntax.
+
+### Document cors origins wildcards vs credentials security
+- Technical notes, architecture insights, and code guidelines for document CORS origins wildcards vs credentials security.
