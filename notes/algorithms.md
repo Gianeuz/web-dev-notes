@@ -268,3 +268,6 @@
 
 ### Document monotonic stack for next greater element
 - Technical notes, architecture insights, and code guidelines for document monotonic stack for next greater element.
+
+### Add matrix exponentiation for fibonacci calculation
+- Technical notes, architecture insights, and code guidelines for add matrix exponentiation for Fibonacci calculation.
