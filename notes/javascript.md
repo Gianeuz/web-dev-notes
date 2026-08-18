@@ -271,3 +271,6 @@
 
 ### Document structuredclone cyclical reference support
 - Technical notes, architecture insights, and code guidelines for document structuredClone cyclical reference support.
+
+### Add abortsignal.timeout native timeout pattern
+- Technical notes, architecture insights, and code guidelines for add AbortSignal.timeout native timeout pattern.
