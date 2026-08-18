@@ -271,3 +271,6 @@
 
 ### Add usesyncexternalstore pattern for external store subscriptions
 - Technical notes, architecture insights, and code guidelines for add useSyncExternalStore pattern for external store subscriptions.
+
+### Document controlled vs uncontrolled form inputs
+- Technical notes, architecture insights, and code guidelines for document controlled vs uncontrolled form inputs.
