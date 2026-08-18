@@ -268,3 +268,6 @@
 
 ### Add jwt audience and issuer verification hardening
 - Technical notes, architecture insights, and code guidelines for add JWT audience and issuer verification hardening.
+
+### Document input sanitization vs output contextual encoding
+- Technical notes, architecture insights, and code guidelines for document input sanitization vs output contextual encoding.
