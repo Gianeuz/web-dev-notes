@@ -268,3 +268,6 @@
 
 ### Document usetransition for non-blocking state updates
 - Technical notes, architecture insights, and code guidelines for document useTransition for non-blocking state updates.
+
+### Add usesyncexternalstore pattern for external store subscriptions
+- Technical notes, architecture insights, and code guidelines for add useSyncExternalStore pattern for external store subscriptions.
