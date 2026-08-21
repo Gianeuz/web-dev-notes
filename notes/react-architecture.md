@@ -283,3 +283,6 @@
 
 ### Add error boundary fallback ui implementation
 - Technical notes, architecture insights, and code guidelines for add error boundary fallback UI implementation.
+
+### Document microtask batching in react 18 automatic batching
+- Technical notes, architecture insights, and code guidelines for document microtask batching in React 18 automatic batching.
