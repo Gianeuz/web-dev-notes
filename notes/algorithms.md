@@ -286,3 +286,6 @@
 
 ### Document fenwick tree binary indexed tree implementation
 - Technical notes, architecture insights, and code guidelines for document Fenwick tree binary indexed tree implementation.
+
+### Add floyd cycle detection algorithm in linked lists
+- Technical notes, architecture insights, and code guidelines for add Floyd cycle detection algorithm in linked lists.
