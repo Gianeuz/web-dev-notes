@@ -301,3 +301,6 @@
 
 ### Document sql injection parameterized query best practices
 - Technical notes, architecture insights, and code guidelines for document SQL injection parameterized query best practices.
+
+### Add subresource integrity sha-384 script validation
+- Technical notes, architecture insights, and code guidelines for add Subresource Integrity SHA-384 script validation.
