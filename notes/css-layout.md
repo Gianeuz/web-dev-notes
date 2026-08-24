@@ -304,3 +304,6 @@
 
 ### Add view-transition-name page transitions
 - Technical notes, architecture insights, and code guidelines for add view-transition-name page transitions.
+
+### Document mix-blend-mode visual effects
+- Technical notes, architecture insights, and code guidelines for document mix-blend-mode visual effects.
