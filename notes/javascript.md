@@ -310,3 +310,6 @@
 
 ### Add web speech and audio api overview
 - Technical notes, architecture insights, and code guidelines for add Web Speech and Audio API overview.
+
+### Document eventtarget dispatchevent custom events
+- Technical notes, architecture insights, and code guidelines for document EventTarget dispatchEvent custom events.
