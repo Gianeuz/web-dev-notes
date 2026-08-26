@@ -310,3 +310,6 @@
 
 ### Document useid hook for accessible form labels
 - Technical notes, architecture insights, and code guidelines for document useId hook for accessible form labels.
+
+### Add virtualized infinite scroll component architecture
+- Technical notes, architecture insights, and code guidelines for add virtualized infinite scroll component architecture.
