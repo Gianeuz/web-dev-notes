@@ -310,3 +310,6 @@
 
 ### Document vacuum and analyze database maintenance
 - Technical notes, architecture insights, and code guidelines for document VACUUM and ANALYZE database maintenance.
+
+### Add full text search fts5 virtual tables in sqlite
+- Technical notes, architecture insights, and code guidelines for add full text search FTS5 virtual tables in SQLite.
