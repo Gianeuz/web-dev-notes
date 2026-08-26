@@ -313,3 +313,6 @@
 
 ### Document eventtarget dispatchevent custom events
 - Technical notes, architecture insights, and code guidelines for document EventTarget dispatchEvent custom events.
+
+### Add array.prototype.flatmap practical example
+- Technical notes, architecture insights, and code guidelines for add Array.prototype.flatMap practical example.
