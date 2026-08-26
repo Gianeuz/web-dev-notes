@@ -307,3 +307,6 @@
 
 ### Document intl.numberformat currency formatting in php/usd
 - Technical notes, architecture insights, and code guidelines for document Intl.NumberFormat currency formatting in PHP/USD.
+
+### Add web speech and audio api overview
+- Technical notes, architecture insights, and code guidelines for add Web Speech and Audio API overview.
