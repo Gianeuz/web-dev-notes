@@ -313,3 +313,6 @@
 
 ### Document essential bash commands: grep, awk, sed
 - Technical notes, architecture insights, and code guidelines for document essential bash commands: grep, awk, sed.
+
+### Add cron job syntax and automated schedule scripts
+- Technical notes, architecture insights, and code guidelines for add cron job syntax and automated schedule scripts.
