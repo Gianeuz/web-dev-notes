@@ -319,3 +319,6 @@
 
 ### Document scrollbar-gutter layout shift prevention
 - Technical notes, architecture insights, and code guidelines for document scrollbar-gutter layout shift prevention.
+
+### Add backdrop-filter glassmorphism design tokens
+- Technical notes, architecture insights, and code guidelines for add backdrop-filter glassmorphism design tokens.
