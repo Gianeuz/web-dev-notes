@@ -319,3 +319,6 @@
 
 ### Document chmod permissions octal notation and umask
 - Technical notes, architecture insights, and code guidelines for document chmod permissions octal notation and umask.
+
+### Add disk usage inspection: df -h and du -sh
+- Technical notes, architecture insights, and code guidelines for add disk usage inspection: df -h and du -sh.
