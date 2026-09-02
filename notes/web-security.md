@@ -322,3 +322,6 @@
 
 ### Add x-frame-options deny clickjacking protection
 - Technical notes, architecture insights, and code guidelines for add X-Frame-Options DENY clickjacking protection.
+
+### Document strict content-security-policy nonce implementation
+- Technical notes, architecture insights, and code guidelines for document strict Content-Security-Policy nonce implementation.
