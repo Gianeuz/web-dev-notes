@@ -328,3 +328,6 @@
 
 ### Add private class fields #field syntax notes
 - Technical notes, architecture insights, and code guidelines for add private class fields #field syntax notes.
+
+### Document proxy and reflect reactive traps
+- Technical notes, architecture insights, and code guidelines for document Proxy and Reflect reactive traps.
