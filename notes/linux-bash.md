@@ -322,3 +322,6 @@
 
 ### Add disk usage inspection: df -h and du -sh
 - Technical notes, architecture insights, and code guidelines for add disk usage inspection: df -h and du -sh.
+
+### Document ssh key generation and authorized_keys setup
+- Technical notes, architecture insights, and code guidelines for document SSH key generation and authorized_keys setup.
