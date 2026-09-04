@@ -331,3 +331,6 @@
 
 ### Add trie prefix tree for autocomplete queries
 - Technical notes, architecture insights, and code guidelines for add trie prefix tree for autocomplete queries.
+
+### Document fenwick tree binary indexed tree implementation
+- Technical notes, architecture insights, and code guidelines for document Fenwick tree binary indexed tree implementation.
