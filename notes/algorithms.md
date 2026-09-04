@@ -325,3 +325,6 @@
 
 ### Add dijkstra shortest path algorithm in python
 - Technical notes, architecture insights, and code guidelines for add Dijkstra shortest path algorithm in Python.
+
+### Document sliding window maximum with deque
+- Technical notes, architecture insights, and code guidelines for document sliding window maximum with deque.
