@@ -328,3 +328,6 @@
 
 ### Document sliding window maximum with deque
 - Technical notes, architecture insights, and code guidelines for document sliding window maximum with deque.
+
+### Add trie prefix tree for autocomplete queries
+- Technical notes, architecture insights, and code guidelines for add trie prefix tree for autocomplete queries.
