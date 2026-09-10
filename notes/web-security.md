@@ -343,3 +343,6 @@
 
 ### Document timing attack prevention with hmac.compare_digest
 - Technical notes, architecture insights, and code guidelines for document timing attack prevention with hmac.compare_digest.
+
+### Add audit logging for administrative authentication events
+- Technical notes, architecture insights, and code guidelines for add audit logging for administrative authentication events.
