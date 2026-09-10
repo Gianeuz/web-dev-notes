@@ -349,3 +349,6 @@
 
 ### Document promise.allsettled error resilience
 - Technical notes, architecture insights, and code guidelines for document Promise.allSettled error resilience.
+
+### Add clean generator function yield idioms
+- Technical notes, architecture insights, and code guidelines for add clean generator function yield idioms.
