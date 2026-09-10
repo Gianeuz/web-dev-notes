@@ -346,3 +346,6 @@
 
 ### Add systemd service management: systemctl status and journalctl
 - Technical notes, architecture insights, and code guidelines for add systemd service management: systemctl status and journalctl.
+
+### Document piping and i/o redirection: stdout, stderr
+- Technical notes, architecture insights, and code guidelines for document piping and I/O redirection: stdout, stderr.
