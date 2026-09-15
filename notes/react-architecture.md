@@ -352,3 +352,6 @@
 
 ### Document suspense and streaming ssr architecture
 - Technical notes, architecture insights, and code guidelines for document Suspense and streaming SSR architecture.
+
+### Add ref forwarding with forwardref and useimperativehandle
+- Technical notes, architecture insights, and code guidelines for add ref forwarding with forwardRef and useImperativeHandle.
