@@ -355,3 +355,6 @@
 
 ### Add a* search algorithm heuristic design
 - Technical notes, architecture insights, and code guidelines for add A* search algorithm heuristic design.
+
+### Document topological sorting with kahn's algorithm
+- Technical notes, architecture insights, and code guidelines for document topological sorting with Kahn's algorithm.
