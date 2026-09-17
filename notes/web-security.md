@@ -373,3 +373,6 @@
 
 ### Document strict content-security-policy nonce implementation
 - Technical notes, architecture insights, and code guidelines for document strict Content-Security-Policy nonce implementation.
+
+### Add redos regex denial-of-service audit patterns
+- Technical notes, architecture insights, and code guidelines for add ReDoS regex denial-of-service audit patterns.
