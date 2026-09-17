@@ -370,3 +370,6 @@
 
 ### Document controlled vs uncontrolled form inputs
 - Technical notes, architecture insights, and code guidelines for document controlled vs uncontrolled form inputs.
+
+### Add compound component pattern with context api
+- Technical notes, architecture insights, and code guidelines for add compound component pattern with Context API.
