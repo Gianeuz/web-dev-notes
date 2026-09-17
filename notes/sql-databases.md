@@ -370,3 +370,6 @@
 
 ### Document recursive cte hierarchical queries
 - Technical notes, architecture insights, and code guidelines for document recursive CTE hierarchical queries.
+
+### Add database connection timeout and keepalive settings
+- Technical notes, architecture insights, and code guidelines for add database connection timeout and keepalive settings.
