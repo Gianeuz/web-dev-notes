@@ -373,3 +373,6 @@
 
 ### Document ssh key generation and authorized_keys setup
 - Technical notes, architecture insights, and code guidelines for document SSH key generation and authorized_keys setup.
+
+### Add find command search by modification date and size
+- Technical notes, architecture insights, and code guidelines for add find command search by modification date and size.
