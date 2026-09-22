@@ -379,3 +379,6 @@
 
 ### Document samesite=lax vs strict cookie directives
 - Technical notes, architecture insights, and code guidelines for document SameSite=Lax vs Strict cookie directives.
+
+### Add rate limiting thresholds and exponential backoff
+- Technical notes, architecture insights, and code guidelines for add rate limiting thresholds and exponential backoff.
