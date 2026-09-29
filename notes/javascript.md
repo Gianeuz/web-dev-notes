@@ -391,3 +391,6 @@
 
 ### Document object.hasown vs object.prototype.hasownproperty
 - Technical notes, architecture insights, and code guidelines for document Object.hasOwn vs Object.prototype.hasOwnProperty.
+
+### Add modern es2024 object.groupby utility guide
+- Technical notes, architecture insights, and code guidelines for add modern ES2024 Object.groupBy utility guide.
