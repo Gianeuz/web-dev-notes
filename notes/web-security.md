@@ -388,3 +388,6 @@
 
 ### Add zero-trust api credential rotation policies
 - Technical notes, architecture insights, and code guidelines for add zero-trust API credential rotation policies.
+
+### Document timing attack prevention with hmac.compare_digest
+- Technical notes, architecture insights, and code guidelines for document timing attack prevention with hmac.compare_digest.
