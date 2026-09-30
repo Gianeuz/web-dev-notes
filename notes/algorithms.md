@@ -391,3 +391,6 @@
 
 ### Add dynamic programming 0/1 knapsack solution
 - Technical notes, architecture insights, and code guidelines for add dynamic programming 0/1 knapsack solution.
+
+### Document binary search tree insertion and balancing
+- Technical notes, architecture insights, and code guidelines for document binary search tree insertion and balancing.
